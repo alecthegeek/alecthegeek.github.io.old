@@ -33,6 +33,6 @@ done
 You can then set the wrapper script to be your compare tool in the various tools you use.
 I've tested this using `git difftool`, please let me know if you have problems.
 
-The underyling assumption is that
+The underlying assumption is that
 Wine provides a drive that maps to the root of your file system (on my system it's `z:`)
-and that work is done relative to that
+:nd that work is done relative to that
