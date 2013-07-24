@@ -6,6 +6,9 @@ comments: true
 categories: git
 ---
 
+__updated June 2013__ Added extra logic to use system Git if [Homebrew](http://mxcl.github.io/homebrew/) Git not installed
+__updated July 2013__ Added extra logic to cd into repo dir before editing repo config
+
 I was listening to [Git Minutes](http://episodes.gitminutes.com/2013/04/gitminutes-06-roberto-tyley-on.html)
 recently when, as an aside, the perennial problem of setting the wrong email address
 in a new repo was mentioned. This is a real nuisance as email addresses are attached to every commit.
