@@ -8,9 +8,9 @@ categories: GitHub
 
 
 When you create a project repo in GitHub you can get get a handy project wiki. This is a great place
-to add soem documentation. However it's not part of your main project artifacts. You can either edit
-the wiki directly via the web interface or use these intructions to manage the content via Git. However
-the Git option it's a bit clunky as the wiki source is managed via a seperaet repo (e.g. myProject.wiki.git).
+to add some documentation. However it's not part of your main project artifacts. You can either edit
+the wiki directly via the web interface or use these instructions to manage the content via Git. However
+the Git option it's a bit clunky as the wiki source is managed via a separate repo (e.g. myProject.wiki.git).
 
 Inspired by [@AdamTuttle](https://twitter.com/AdamTuttle)'s [post](http://fusiongrokker.com/post/how-you-can-contribute-to-taffy-documentation)
 I came up with the this workflow which has the following features:
