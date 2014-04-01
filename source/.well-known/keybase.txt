@@ -1,0 +1,57 @@
+https://keybase.io/alecthegeek
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://alecthegeek.github.io
+  * I am alecthegeek (https://keybase.io/alecthegeek) on keybase.
+  * I have a public key with fingerprint BF8A E8CC 9DA3 C1E3 C5BD  0CDD 3FE7 B98F 9BBB FC7C
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "bf8ae8cc9da3c1e3c5bd0cdd3fe7b98f9bbbfc7c",
+            "host": "keybase.io",
+            "key_id": "3FE7B98F9BBBFC7C",
+            "uid": "5f59cd69857a1684b5dbc0c7b8301700",
+            "username": "alecthegeek"
+        },
+        "service": {
+            "hostname": "alecthegeek.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1396320983,
+    "expire_in": 157680000,
+    "prev": "d1eb103bb72f6fbcb9d645a7a1ad5742804d1075bd10f3b104f2ed3945d04ec8",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG/MacGPG2 v2.0.22 (Darwin)
+Comment: GPGTools - http://gpgtools.org
+
+owFlkb9rFEEUx9fzB1EQDNhqMYiFHGH2ZndnZpvABRcEO/+Ac97Mm70hcXezu3cx
+5AfpkhRqChtRsfUfEBEbwVJ7W5tgY2Fhp4gzUSunecx7n/d9v44uno4Gi8tf3jx6
++vbn9qkP735BdCe/8WmLQG02Sb5FVvHEWFeV2Datq3qSE7BCodBaGsV0jEynYKg2
+hlnkIIWVAGA112RIpnUXMrwMqA6XXO19/jNxxntZcZOPpSjkeDwuVviKj81OAqlN
+pTaZFClXcSYSSA1oqjkIRmNOaQA7bCt1Dz2t1lD3UywRV8nOkPjA3GkMbYfq/0NL
+peunM/jTTNPWfa3rNY9M+77p8iDRbzYhZwNh8ldtAq4yfgk+Y45t5+qK5LEnde+C
+fMxkxkZUCjYkeL9xLU5cIFKeCepfqINzL2lihJgyAD6ymQUN0mRJqvyYyqQ8GQma
+mJhyv9CYWubRxI7QMJmkhiaoBQnzrVc1yRPfpiq9ZOfKSvWzFsnOQXEmWhxE584O
+whWjC+cv/bvt18fR86uf1eH+0d7xMXmycLe4duvVldvXoxe7D18efjfz7R/v9QNK
+L7/+9mz9428=
+=I9cc
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/alecthegeek
